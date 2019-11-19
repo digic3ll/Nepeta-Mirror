@@ -3580,3 +3580,49 @@ MD5Sum: 483ee6149e539ce31afffa59c8880528
 SHA1: 20514330acd718cf95b8ffb3816f6c1660f7fe65
 SHA256: ad5798646107102dfde09f29d83689703fffda0985472dfad2862663e8ec50df
 SHA512: d7e8ad9f7ed9f3d9e5fc845b86824df5b972c390a1e7fdee98056027fc756fe461f18baf126281fc8b5b9aec8fa061ea8433b58c057b747a83f1e055cee8ce40
+
+Package: com.spark.libpackageinfo
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: Revulate <revulate1@gmail.com>
+Depends: firmware (>=11.0), firmware (>=11.0)
+Conflicts: jp.ashikase.libpackageinfo, cokepokes.jp.ashikase.libpackageinfo
+Replaces: jp.ashikase.libpackageinfo, cokepokes.jp.ashikase.libpackageinfo
+Provides: jp.ashikase.libpackageinfo, cokepokes.jp.ashikase.libpackageinfo
+Filename: ./debs/com.spark.libpackageinfo.deb
+Size: 90470
+MD5sum: 3eb4e02ecf9e67ed34d13fe198db2612
+SHA1: 9f9e0324555979b86306f368c116d9ac71dad068
+SHA256: 85d22c958d239d305d0df1050a19bae4cb4e1e5adc5e613eb1c7b3cb598e7cb9
+Section: Utilities
+Homepage: https://revulate.dev
+Description: Library to retrieve package information.
+Author: Revulate <revulate1@gmail.com>
+Depiction: https://revulate.dev/depiction/web/com.spark.libpackageinfo.html
+Icon: https://revulate.dev/assets/com.spark.libpackageinfo/icon.png
+Moderndepiction: https://revulate.dev/depiction/native/com.spark.libpackageinfo.json
+Name: libpackageinfo (SparkDev)
+Sileodepiction: https://revulate.dev/depiction/native/com.spark.libpackageinfo.json
+
+Package: com.spark.techsupport
+Version: 1.5.2
+Architecture: iphoneos-arm
+Maintainer: Revulate <revulate1@gmail.com>
+Depends: firmware (>=11.0), firmware (>=11.0), com.spark.libpackageinfo
+Conflicts: jp.ashikase.techsupport, cokepokes.jp.ashikase.techsupport
+Replaces: jp.ashikase.techsupport, cokepokes.jp.ashikase.techsupport
+Provides: jp.ashikase.techsupport, cokepokes.jp.ashikase.techsupport
+Filename: ./debs/com.spark.techsupport.deb
+Size: 56736
+MD5sum: f5c1514f9fcac814a4aadf011eac5be7
+SHA1: 5839fcc5ac0079913e84d087a076342a8dff6eed
+SHA256: 5f6092fcf36b8b020817791ce9f6ecbc7125fd285859b8702abec6fb32c42ca0
+Section: Utilities
+Homepage: https://revulate.dev
+Description: Framework to assist in providing feedback to developers.
+Author: Revulate <revulate1@gmail.com>
+Depiction: https://revulate.dev/depiction/web/com.spark.techsupport.html
+Icon: https://revulate.dev/assets/com.spark.techsupport/icon.png
+Moderndepiction: https://revulate.dev/depiction/native/com.spark.techsupport.json
+Name: TechSupport Framework (SparkDev)
+Sileodepiction: https://revulate.dev/depiction/native/com.spark.techsupport.json
