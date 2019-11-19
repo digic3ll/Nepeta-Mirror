@@ -3562,25 +3562,6 @@ SHA1: 9397bb2760742bcafb0dbff41e28386876549500
 SHA256: c9f42361b66b413a8addfce05164b1d95f8735e9b8c6afb18f05a960ad2e0457
 SHA512: d1e10813acda4449f6879c3205cb006f2f8e0c20cd03364980cb2191ddda7f9151082412d1a33be1543c1f32a53064182b978ee2b1ac022990edaae6ca71b1b0
 
-Package: me.nepeta.relocate
-Name: Relocate
-Version: 0.1.11
-Maintainer: Nepeta <ominousness@protonmail.com>
-Author: Nepeta <ominousness@protonmail.com>
-Description: Minimalist GPS spoofer (free) (If you can't see the depiction, please use Cydia or Zebra).
-Section: Tweaks
-Installed-Size: 552
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7)
-Filename: packages/me.nepeta.relocate_0.1.11_iphoneos-arm.deb
-Depiction: ./depiction/me.nepeta.relocate
-Icon: ./icons/me.nepeta.relocate.png
-Size: 94710
-MD5Sum: 483ee6149e539ce31afffa59c8880528
-SHA1: 20514330acd718cf95b8ffb3816f6c1660f7fe65
-SHA256: ad5798646107102dfde09f29d83689703fffda0985472dfad2862663e8ec50df
-SHA512: d7e8ad9f7ed9f3d9e5fc845b86824df5b972c390a1e7fdee98056027fc756fe461f18baf126281fc8b5b9aec8fa061ea8433b58c057b747a83f1e055cee8ce40
-
 Package: me.nepeta.relocate13
 Name: Relocate13
 Version: 0.1.11
