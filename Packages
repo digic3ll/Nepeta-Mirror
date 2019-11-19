@@ -2642,23 +2642,23 @@ SHA512: 0292f2298f724495d3029223379c8c0f530199fa9b93b1cf84cc2b58dddf43b88eeaaa3d
 
 Package: me.nepeta.axon
 Name: Axon
-Version: 0.2.3
-Maintainer: Baw Apie <pp121324@gmail.com>
-Author: Nepeta <ominousness@protonmail.com>
-Description: Priority Hub for iOS 11-13. Originally created by nepeta, updated for iOS 13 by Baw Appie.
-Section: Tweaks
-Installed-Size: 468
-Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), com.spark.libpackageinfo, com.spark.techsupport
-Conflicts: Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
-Filename: debs/me.nepeta.axon_0.2.3_iphoneos-arm.deb
-Depiction: ./depiction/me.nepeta.axon
-Icon: ./icons/me.nepeta.axon.png
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Architecture: iphoneos-arm
+Description: Priority Hub for iOS 11 and 12
+Maintainer: Baw Appie
+Author: Nepeta & Baw Appie
+Section: Tweaks
+Version: 0.2.3
+Installed-Size: 540
 Size: 131500
-MD5Sum: b6bf4ef73a137119da3cbde208e804a0
+MD5sum: b6bf4ef73a137119da3cbde208e804a0
 SHA1: 1d50eadad421e5071cd0bab77c59aa51c2d8bea7
 SHA256: 33112ab0eb231f72af78d5429b640a875745fef31986d9ce09990498d6a2c121
-SHA512: 3873e399fcac9a556e226bc405cbbe8f5f4a2a3860bf9cafe7206b83e93b62f3ec9ab3c606d4c2acdc80f5aaeb4e75c55b7950d753a5c0c22f0f0e657095ac11
+Filename: debs/me.nepeta.axon.deb
+Depiction: https://repo.co.kr/depictions/me.nepeta.axon
+SileoDepiction: https://repo.co.kr/api/package/getSileoDepictions/me.nepeta.axon
+Tag: purpose::extension
 
 
 Package: me.nepeta.axon
