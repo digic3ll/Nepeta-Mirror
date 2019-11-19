@@ -3583,7 +3583,7 @@ SHA512: d7e8ad9f7ed9f3d9e5fc845b86824df5b972c390a1e7fdee98056027fc756fe461f18baf
 
 Package: me.nepeta.relocate13
 Name: Relocate for iOS 13
-Version: 0.1.11-13
+Version: 0.1.13
 Maintainer: Nick Garbis <gnick@free.fr>
 Author: Nepeta <ominousness@protonmail.com>
 Description: Minimalist GPS spoofer (free) (If you can't see the depiction, please use Cydia or Zebra).
@@ -3591,7 +3591,7 @@ Section: Tweaks
 Installed-Size: 552
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7), com.spark.libpackageinfo
-Filename: packages/me.nepeta.relocate13_0.1.11_iphoneos-arm.deb
+Filename: packages/me.nepeta.relocate_0.1.13_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.relocate
 Icon: ./icons/me.nepeta.relocate.png
 Size: 94710
