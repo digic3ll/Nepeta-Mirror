@@ -4,17 +4,17 @@ Version: 1.0
 Architectures: iphoneos-arm
 Components: main
 Codename: ominousness
-Description: Nepeta's repo for mostly FOSS software. Supports Cydia and Zebra. Mirrored by Nick Garbis with plans to update tweaks for iOS 13 and later versions.
+Description: Nepeta's repo for mostly FOSS software. Supports Cydia and Zebra. Mirrored by Nick Garbis, updating tweaks for iOS 13 and later versions.
 MD5Sum:
- a87d669045669478f403633793ed67b1 171157 Packages
- 377dc7feea814c7351cf06f26931e1af 34275 Packages.bz2
+ bad69831327b90145f1212a36101b7cb 160513 Packages
+ 377dc7feea814c7351cf06f26931e1af 34136 Packages.bz2
 SHA1:
- 203637866e1e479ae126530aba0333feca4fb772 171157 Packages
- 71b7d468b552d7b2497164b5ba17fe9668e012e4 34275 Packages.bz2
+ 97aa83ffbe5a5ccbdbc7cdf1957ea845f3d8758b 160513 Packages
+ c34acb4d35e3dcb1ad6e6862c83d50c0099569bb 34136 Packages.bz2
 SHA256:
- a51a42a32d33b74e128daa20d26857591d369ca28b5915707c1bdb76fa638231 171157 Packages
- b6c948d2b6c54609eb742363a6ee73657a0cf8b35e429a954999ccbbb3d591b1 34275 Packages.bz2
+ 1096c871f2454d792ae5d7ffbc1f142ecdc43b1a87541a7d9a1220f69a133ea0 160513 Packages
+ abbb2456bcceb5eccad5cd162764fc3ecb39bf441a24471d839b53de7faf3f1d 34136 Packages.bz2
 SHA512:
- 95e5b51aff7496cd4ea0488dc7e926e30be7990092705c65bd805fc461842dd29014d3b7b823bd6ab34ea322d17756c6070aa123a1bb4f618893904018308e25 171157 Packages
- 136d5e9cedd29ee154eba156eef9ac3240082517c82fc204200cb5e61805dc41af4c126ccd6ffdfe6713552e2fa90e71c07941f9a30cdb07009cc44a89ae0cd9 34275 Packages.bz2
+ eadafebaf757afd31d4b5d5d2371fc7c1361b82d840fa4c4e12750aa21e142f39fc1833d80decffa2934a9ed407e53f7512fb262407f89b28f31444c92630ba8 160513 Packages
+ 612c11ce4b46892d407bf2f0a5ff1255deb7873219bdd4c489f6678c8f8bc7c5166ff8a01073ce890547974933b1d3262d4824a1ca71f7cebd4ba3b842c4c1ce 34136 Packages.bz2
 
