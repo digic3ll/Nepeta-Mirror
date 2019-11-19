@@ -3589,7 +3589,7 @@ Depends: firmware (>=11.0), firmware (>=11.0)
 Conflicts: jp.ashikase.libpackageinfo, cokepokes.jp.ashikase.libpackageinfo
 Replaces: jp.ashikase.libpackageinfo, cokepokes.jp.ashikase.libpackageinfo
 Provides: jp.ashikase.libpackageinfo, cokepokes.jp.ashikase.libpackageinfo
-Filename: ./debs/com.spark.libpackageinfo.deb
+Filename: debs/com.spark.libpackageinfo.deb
 Size: 90470
 MD5sum: 3eb4e02ecf9e67ed34d13fe198db2612
 SHA1: 9f9e0324555979b86306f368c116d9ac71dad068
@@ -3612,7 +3612,7 @@ Depends: firmware (>=11.0), firmware (>=11.0), com.spark.libpackageinfo
 Conflicts: jp.ashikase.techsupport, cokepokes.jp.ashikase.techsupport
 Replaces: jp.ashikase.techsupport, cokepokes.jp.ashikase.techsupport
 Provides: jp.ashikase.techsupport, cokepokes.jp.ashikase.techsupport
-Filename: ./debs/com.spark.techsupport.deb
+Filename: debs/com.spark.techsupport.deb
 Size: 56736
 MD5sum: f5c1514f9fcac814a4aadf011eac5be7
 SHA1: 5839fcc5ac0079913e84d087a076342a8dff6eed
