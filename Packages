@@ -7,7 +7,7 @@ Description: iOS mediaserverd hook to serve snapshots of current audio buffer vi
 Section: Development
 Installed-Size: 152
 Architecture: iphoneos-arm
-Filename: packages/io.ominousness.ass_1.0.0_iphoneos-arm.deb
+Filename: debs/io.ominousness.ass_1.0.0_iphoneos-arm.deb
 Depiction: ./depiction/io.ominousness.ass
 Icon: ./CydiaIcon.png
 Size: 5352
@@ -27,7 +27,7 @@ Installed-Size: 644
 Architecture: iphoneos-arm
 Depends: org.thebigboss.libcolorpicker, io.ominousness.ass, ws.hbang.common (>= 1.11)
 Conflicts: io.c0ldra1n.mitsuha, io.c0ldra1n.mitsuha-beta
-Filename: packages/io.ominousness.mitsuhaxi_0.5.5_iphoneos-arm.deb
+Filename: debs/io.ominousness.mitsuhaxi_0.5.5_iphoneos-arm.deb
 Depiction: ./depiction/io.ominousness.mitsuhaxi
 Icon: ./icons/io.ominousness.mitsuhaxi.png
 Size: 62696
@@ -47,7 +47,7 @@ Installed-Size: 488
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), firmware (<= 11.4.1), cy+cpu.arm64
 Conflicts: com.ioscreatix.intelix, com.ioscreatix.intelixbeta
-Filename: packages/io.ominousness.stackxi_0.5.5_iphoneos-arm.deb
+Filename: debs/io.ominousness.stackxi_0.5.5_iphoneos-arm.deb
 Depiction: ./depiction/io.ominousness.stackxi
 Icon: ./icons/io.ominousness.stackxi.png
 Size: 61416
@@ -66,7 +66,7 @@ Section: Tweaks
 Installed-Size: 72
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: packages/me.nepeta.brokenhud_0.1.0_iphoneos-arm.deb
+Filename: debs/me.nepeta.brokenhud_0.1.0_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.brokenhud
 Icon: ./CydiaIcon.png
 Size: 4312
@@ -86,7 +86,7 @@ Installed-Size: 412
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, com.opa334.ccsupport, ws.hbang.common (>= 1.11), firmware (>= 11.0), firmware (<= 12.4.1), applist
 Conflicts: me.nepeta.begonecia-10
-Filename: packages/me.nepeta.begonecia-11_0.2.1_iphoneos-arm.deb
+Filename: debs/me.nepeta.begonecia-11_0.2.1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.begonecia-11
 Icon: ./icons/me.nepeta.begonecia-11.png
 Size: 51038
@@ -106,7 +106,7 @@ Installed-Size: 412
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, com.a3tweaks.flipswitch, ws.hbang.common (>= 1.11), firmware (>= 9.0), firmware (<= 10.3.3), applist
 Conflicts: me.nepeta.begonecia-11
-Filename: packages/me.nepeta.begonecia-10_0.2.1_iphoneos-arm.deb
+Filename: debs/me.nepeta.begonecia-10_0.2.1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.begonecia-10
 Icon: ./icons/me.nepeta.begonecia-10.png
 Size: 54292
@@ -125,7 +125,7 @@ Section: Tweaks
 Installed-Size: 312
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 7.0), applist, com.rpetrich.rocketbootstrap
-Filename: packages/me.nepeta.launchtron_0.1.3_iphoneos-arm.deb
+Filename: debs/me.nepeta.launchtron_0.1.3_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.launchtron
 Icon: ./icons/me.nepeta.launchtron.png
 Size: 45992
@@ -144,7 +144,7 @@ Section: Tweaks (Activator)
 Installed-Size: 132
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 7.0), libactivator, me.nepeta.launchtron
-Filename: packages/me.nepeta.launchtron.action_0.1.0_iphoneos-arm.deb
+Filename: debs/me.nepeta.launchtron.action_0.1.0_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.launchtron.action
 Icon: ./CydiaIcon.png
 Size: 10746
@@ -163,7 +163,7 @@ Section: Tweaks
 Installed-Size: 212
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
-Filename: packages/me.nepeta.slyd_0.1.1_iphoneos-arm.deb
+Filename: debs/me.nepeta.slyd_0.1.1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.slyd
 Icon: ./icons/me.nepeta.slyd.png
 Size: 14176
@@ -181,7 +181,7 @@ Description: Nepeta's color utils (If you can't see the depiction, please use Cy
 Section: Development
 Installed-Size: 208
 Architecture: iphoneos-arm
-Filename: packages/me.nepeta.libnepeta_0.1.1_iphoneos-arm.deb
+Filename: debs/me.nepeta.libnepeta_0.1.1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.libnepeta
 Icon: ./CydiaIcon.png
 Size: 15942
@@ -200,7 +200,7 @@ Section: Tweaks
 Installed-Size: 448
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, net.limneos.libbulletin, preferenceloader, ws.hbang.common
-Filename: packages/com.easy-z.ezbatteries_2.1.2_iphoneos-arm.deb
+Filename: debs/com.easy-z.ezbatteries_2.1.2_iphoneos-arm.deb
 Depiction: ./depiction/com.easy-z.ezbatteries
 Icon: ./icons/com.easy-z.ezbatteries.png
 Size: 196158
@@ -219,7 +219,7 @@ Section: Tweaks
 Installed-Size: 104
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 10.0), firmware (<< 12.2)
-Filename: packages/com.peterdev.betalert_1.0_iphoneos-arm.deb
+Filename: debs/com.peterdev.betalert_1.0_iphoneos-arm.deb
 Depiction: ./depiction/com.peterdev.betalert
 Icon: ./CydiaIcon.png
 Size: 5020
@@ -239,7 +239,7 @@ Installed-Size: 872
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker, ws.hbang.common (>= 1.11), me.nepeta.libnepeta (>= 0.1.1)
 Conflicts: io.ominousness.modernxi
-Filename: packages/me.nepeta.notifica_0.2.6_iphoneos-arm.deb
+Filename: debs/me.nepeta.notifica_0.2.6_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.notifica
 Icon: ./icons/me.nepeta.notifica.png
 Size: 365692
@@ -258,7 +258,7 @@ Section: Tweaks
 Installed-Size: 152
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (<= 12.1.4)
-Filename: packages/com.peterdev.whatabouthis_1.1_iphoneos-arm.deb
+Filename: debs/com.peterdev.whatabouthis_1.1_iphoneos-arm.deb
 Depiction: ./depiction/com.peterdev.whatabouthis
 Icon: ./CydiaIcon.png
 Size: 7724
@@ -277,7 +277,7 @@ Section: Tweaks
 Installed-Size: 152
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
-Filename: packages/me.nepeta.nottoday12_0.1.0_iphoneos-arm.deb
+Filename: debs/me.nepeta.nottoday12_0.1.0_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.nottoday12
 Icon: ./CydiaIcon.png
 Size: 6818
@@ -296,7 +296,7 @@ Section: Tweaks
 Installed-Size: 156
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
-Filename: packages/me.nepeta.owo_0.2.1_iphoneos-arm.deb
+Filename: debs/me.nepeta.owo_0.2.1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.owo
 Icon: ./CydiaIcon.png
 Size: 11016
@@ -316,7 +316,7 @@ Installed-Size: 984
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Conflicts: me.nepeta.haisiri
-Filename: packages/me.nepeta.astolfo_0.1.0_iphoneos-arm.deb
+Filename: debs/me.nepeta.astolfo_0.1.0_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.astolfo
 Icon: ./CydiaIcon.png
 Size: 936952
@@ -335,7 +335,7 @@ Section: Tweaks
 Installed-Size: 192
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
-Filename: packages/me.nepeta.selector_0.1.1_iphoneos-arm.deb
+Filename: debs/me.nepeta.selector_0.1.1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.selector
 Icon: ./icons/me.nepeta.selector.png
 Size: 24648
@@ -354,7 +354,7 @@ Section: Tweaks
 Installed-Size: 72
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
-Filename: packages/me.nepeta.selectowo_0.1.0_iphoneos-arm.deb
+Filename: debs/me.nepeta.selectowo_0.1.0_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.selectowo
 Icon: ./CydiaIcon.png
 Size: 6006
@@ -373,7 +373,7 @@ Section: Development
 Installed-Size: 288
 Architecture: iphoneos-arm
 Depends: io.ominousness.ass
-Filename: packages/me.nepeta.libmitsuha_0.1.5_iphoneos-arm.deb
+Filename: debs/me.nepeta.libmitsuha_0.1.5_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.libmitsuha
 Icon: ./CydiaIcon.png
 Size: 28018
@@ -392,7 +392,7 @@ Section: Tweaks
 Installed-Size: 152
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
-Filename: packages/me.nepeta.noidletimer_0.1.0_iphoneos-arm.deb
+Filename: debs/me.nepeta.noidletimer_0.1.0_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.noidletimer
 Icon: ./CydiaIcon.png
 Size: 5476
@@ -412,7 +412,7 @@ Installed-Size: 496
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker, io.ominousness.ass, ws.hbang.common (>= 1.11), me.nepeta.libmitsuha (>= 0.1.4), me.nepeta.libnepeta
 Conflicts: io.c0ldra1n.mitsuha, io.c0ldra1n.mitsuha-beta, io.ominousness.mitsuhaxi
-Filename: packages/me.nepeta.mitsuhainfinity_0.1.3_iphoneos-arm.deb
+Filename: debs/me.nepeta.mitsuhainfinity_0.1.3_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.mitsuhainfinity
 Icon: ./icons/me.nepeta.mitsuhainfinity.png
 Size: 36130
@@ -431,7 +431,7 @@ Section: Tweaks
 Installed-Size: 104
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, me.nepeta.libnepeta
-Filename: packages/com.peterdev.musiclocker_1.0_iphoneos-arm.deb
+Filename: debs/com.peterdev.musiclocker_1.0_iphoneos-arm.deb
 Depiction: ./depiction/com.peterdev.musiclocker
 Icon: ./CydiaIcon.png
 Size: 4194
@@ -450,7 +450,7 @@ Section: Tweaks
 Installed-Size: 312
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker
-Filename: packages/me.nepeta.flashyhud_0.1.0_iphoneos-arm.deb
+Filename: debs/me.nepeta.flashyhud_0.1.0_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.flashyhud
 Icon: ./icons/me.nepeta.flashyhud.png
 Size: 27142
@@ -470,7 +470,7 @@ Installed-Size: 872
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker, ws.hbang.common (>= 1.11), me.nepeta.libnepeta (>= 0.1.1)
 Conflicts: io.ominousness.modernxi
-Filename: packages/me.nepeta.notifica_0.2.7_iphoneos-arm.deb
+Filename: debs/me.nepeta.notifica_0.2.7_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.notifica
 Icon: ./icons/me.nepeta.notifica.png
 Size: 366430
@@ -489,7 +489,7 @@ Section: Tweaks
 Installed-Size: 352
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker
-Filename: packages/me.nepeta.flashyhud_0.1.1_iphoneos-arm.deb
+Filename: debs/me.nepeta.flashyhud_0.1.1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.flashyhud
 Icon: ./icons/me.nepeta.flashyhud.png
 Size: 41436
@@ -509,7 +509,7 @@ Installed-Size: 540
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker, io.ominousness.ass, ws.hbang.common (>= 1.11), me.nepeta.libmitsuha (>= 0.1.4), me.nepeta.libnepeta
 Conflicts: io.c0ldra1n.mitsuha, io.c0ldra1n.mitsuha-beta, io.ominousness.mitsuhaxi
-Filename: packages/me.nepeta.mitsuhainfinity_0.1.4_iphoneos-arm.deb
+Filename: debs/me.nepeta.mitsuhainfinity_0.1.4_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.mitsuhainfinity
 Icon: ./icons/me.nepeta.mitsuhainfinity.png
 Size: 35896
@@ -528,7 +528,7 @@ Section: Tweaks
 Installed-Size: 280
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
-Filename: packages/me.nepeta.slyd_0.2.0_iphoneos-arm.deb
+Filename: debs/me.nepeta.slyd_0.2.0_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.slyd
 Icon: ./icons/me.nepeta.slyd.png
 Size: 16744
@@ -547,7 +547,7 @@ Section: Tweaks
 Installed-Size: 232
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
-Filename: packages/me.nepeta.slyd_0.2.1_iphoneos-arm.deb
+Filename: debs/me.nepeta.slyd_0.2.1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.slyd
 Icon: ./icons/me.nepeta.slyd.png
 Size: 14822
@@ -567,7 +567,7 @@ Installed-Size: 232
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
 Conflicts: me.nepeta.nottoday12, io.ijapija00.notodayview
-Filename: packages/me.nepeta.slyd_0.2.2_iphoneos-arm.deb
+Filename: debs/me.nepeta.slyd_0.2.2_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.slyd
 Icon: ./icons/me.nepeta.slyd.png
 Size: 14936
@@ -587,7 +587,7 @@ Installed-Size: 188
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
 Conflicts: me.nepeta.slyd
-Filename: packages/me.nepeta.nottoday12_0.1.1_iphoneos-arm.deb
+Filename: debs/me.nepeta.nottoday12_0.1.1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.nottoday12
 Icon: ./CydiaIcon.png
 Size: 5862
@@ -607,7 +607,7 @@ Installed-Size: 216
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
 Conflicts: me.nepeta.slyd
-Filename: packages/me.nepeta.nottoday12_0.1.2_iphoneos-arm.deb
+Filename: debs/me.nepeta.nottoday12_0.1.2_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.nottoday12
 Icon: ./CydiaIcon.png
 Size: 6528
@@ -626,7 +626,7 @@ Section: Tweaks
 Installed-Size: 188
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
-Filename: packages/me.nepeta.konban_0.1.0_iphoneos-arm.deb
+Filename: debs/me.nepeta.konban_0.1.0_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.konban
 Icon: ./icons/me.nepeta.konban.png
 Size: 10324
@@ -645,7 +645,7 @@ Section: Tweaks
 Installed-Size: 188
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist
-Filename: packages/me.nepeta.konban_0.1.1_iphoneos-arm.deb
+Filename: debs/me.nepeta.konban_0.1.1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.konban
 Icon: ./icons/me.nepeta.konban.png
 Size: 10324
@@ -664,7 +664,7 @@ Section: Development
 Installed-Size: 180
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: packages/me.nepeta.exo_0.1.0_iphoneos-arm.deb
+Filename: debs/me.nepeta.exo_0.1.0_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.exo
 Icon: ./CydiaIcon.png
 Size: 13308
@@ -683,7 +683,7 @@ Section: Tweaks (Beta)
 Installed-Size: 100
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.rpetrich.rocketbootstrap (>= 1.0.2), me.nepeta.exo
-Filename: packages/me.nepeta.exobar_0.1.0_iphoneos-arm.deb
+Filename: debs/me.nepeta.exobar_0.1.0_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.exobar
 Icon: ./CydiaIcon.png
 Size: 7276
@@ -703,7 +703,7 @@ Installed-Size: 232
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
 Conflicts: me.nepeta.nottoday12, io.ijapija00.notodayview
-Filename: packages/me.nepeta.slyd_0.2.3_iphoneos-arm.deb
+Filename: debs/me.nepeta.slyd_0.2.3_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.slyd
 Icon: ./icons/me.nepeta.slyd.png
 Size: 14962
@@ -722,7 +722,7 @@ Section: Tweaks
 Installed-Size: 204
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
-Filename: packages/me.nepeta.reachit_0.1.0_iphoneos-arm.deb
+Filename: debs/me.nepeta.reachit_0.1.0_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.reachit
 Icon: ./icons/me.nepeta.reachit.png
 Size: 20326
@@ -744,7 +744,7 @@ Depends: firmware (>= 11.0)
 Conflicts: org.thebigboss.libcolorpicker
 Replaces: org.thebigboss.libcolorpicker
 Provides: org.thebigboss.libcolorpicker
-Filename: packages/me.nepeta.libcolorpicker_1.6.2_iphoneos-arm.deb
+Filename: debs/me.nepeta.libcolorpicker_1.6.2_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.libcolorpicker
 Icon: ./CydiaIcon.png
 Size: 37970
@@ -766,7 +766,7 @@ Depends: firmware (>= 11.0)
 Conflicts: org.thebigboss.libcolorpicker
 Replaces: org.thebigboss.libcolorpicker
 Provides: org.thebigboss.libcolorpicker (=1.6.1)
-Filename: packages/me.nepeta.libcolorpicker_1.6.2-1_iphoneos-arm.deb
+Filename: debs/me.nepeta.libcolorpicker_1.6.2-1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.libcolorpicker
 Icon: ./CydiaIcon.png
 Size: 37936
@@ -785,7 +785,7 @@ Section: Tweaks
 Installed-Size: 248
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (<= 12.1.4)
-Filename: packages/com.peterdev.whatabouthis_1.1.1_iphoneos-arm.deb
+Filename: debs/com.peterdev.whatabouthis_1.1.1_iphoneos-arm.deb
 Depiction: ./depiction/com.peterdev.whatabouthis
 Icon: ./CydiaIcon.png
 Size: 10152
@@ -804,7 +804,7 @@ Section: Tweaks
 Installed-Size: 200
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 10.0), firmware (<< 12.2)
-Filename: packages/com.peterdev.betalert_1.0.1_iphoneos-arm.deb
+Filename: debs/com.peterdev.betalert_1.0.1_iphoneos-arm.deb
 Depiction: ./depiction/com.peterdev.betalert
 Icon: ./CydiaIcon.png
 Size: 6788
@@ -823,7 +823,7 @@ Section: Tweaks
 Installed-Size: 308
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 11.0)
-Filename: packages/me.nepeta.konban_0.1.2_iphoneos-arm.deb
+Filename: debs/me.nepeta.konban_0.1.2_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.konban
 Icon: ./icons/me.nepeta.konban.png
 Size: 37866
@@ -843,7 +843,7 @@ Installed-Size: 984
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Conflicts: me.nepeta.haisiri
-Filename: packages/me.nepeta.astolfo_0.1.1_iphoneos-arm.deb
+Filename: debs/me.nepeta.astolfo_0.1.1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.astolfo
 Icon: ./CydiaIcon.png
 Size: 936938
@@ -863,7 +863,7 @@ Installed-Size: 1100
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker, ws.hbang.common (>= 1.11), me.nepeta.libnepeta (>= 0.1.1), firmware (>= 11.0)
 Conflicts: io.ominousness.modernxi
-Filename: packages/me.nepeta.notifica_0.2.8_iphoneos-arm.deb
+Filename: debs/me.nepeta.notifica_0.2.8_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.notifica
 Icon: ./icons/me.nepeta.notifica.png
 Size: 390396
@@ -882,7 +882,7 @@ Section: Tweaks
 Installed-Size: 336
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
-Filename: packages/me.nepeta.selector_0.1.2_iphoneos-arm.deb
+Filename: debs/me.nepeta.selector_0.1.2_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.selector
 Icon: ./icons/me.nepeta.selector.png
 Size: 29154
@@ -901,7 +901,7 @@ Section: Tweaks
 Installed-Size: 136
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>=11.0)
-Filename: packages/me.nepeta.selectowo_0.1.1_iphoneos-arm.deb
+Filename: debs/me.nepeta.selectowo_0.1.1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.selectowo
 Icon: ./CydiaIcon.png
 Size: 7832
@@ -920,7 +920,7 @@ Section: Tweaks
 Installed-Size: 280
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>=11.0)
-Filename: packages/me.nepeta.noidletimer_0.1.1_iphoneos-arm.deb
+Filename: debs/me.nepeta.noidletimer_0.1.1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.noidletimer
 Icon: ./CydiaIcon.png
 Size: 6822
@@ -939,7 +939,7 @@ Section: Tweaks
 Installed-Size: 284
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>=11.0)
-Filename: packages/me.nepeta.owo_0.2.2_iphoneos-arm.deb
+Filename: debs/me.nepeta.owo_0.2.2_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.owo
 Icon: ./CydiaIcon.png
 Size: 14422
@@ -959,7 +959,7 @@ Installed-Size: 604
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, com.opa334.ccsupport, ws.hbang.common (>= 1.11), firmware (>= 11.0), firmware (<= 12.4.1), applist
 Conflicts: me.nepeta.begonecia-10
-Filename: packages/me.nepeta.begonecia-11_0.2.1-1_iphoneos-arm.deb
+Filename: debs/me.nepeta.begonecia-11_0.2.1-1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.begonecia-11
 Icon: ./icons/me.nepeta.begonecia-11.png
 Size: 54458
@@ -978,7 +978,7 @@ Section: Tweaks
 Installed-Size: 136
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>=11.0)
-Filename: packages/me.nepeta.brokenhud_0.1.1_iphoneos-arm.deb
+Filename: debs/me.nepeta.brokenhud_0.1.1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.brokenhud
 Icon: ./CydiaIcon.png
 Size: 5686
@@ -997,7 +997,7 @@ Section: Tweaks
 Installed-Size: 296
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
-Filename: packages/me.nepeta.reachit_0.1.1_iphoneos-arm.deb
+Filename: debs/me.nepeta.reachit_0.1.1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.reachit
 Icon: ./icons/me.nepeta.reachit.png
 Size: 23516
@@ -1016,7 +1016,7 @@ Section: Tweaks
 Installed-Size: 492
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker, firmware (>= 9.0)
-Filename: packages/me.nepeta.flashyhud_0.1.2_iphoneos-arm.deb
+Filename: debs/me.nepeta.flashyhud_0.1.2_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.flashyhud
 Icon: ./icons/me.nepeta.flashyhud.png
 Size: 49188
@@ -1036,7 +1036,7 @@ Installed-Size: 308
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
 Conflicts: me.nepeta.nottoday12, io.ijapija00.notodayview
-Filename: packages/me.nepeta.slyd_0.2.4_iphoneos-arm.deb
+Filename: debs/me.nepeta.slyd_0.2.4_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.slyd
 Icon: ./icons/me.nepeta.slyd.png
 Size: 18432
@@ -1056,7 +1056,7 @@ Installed-Size: 896
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker, io.ominousness.ass, ws.hbang.common (>= 1.11), me.nepeta.libmitsuha (>= 0.1.4), me.nepeta.libnepeta, firmware (>=11.0)
 Conflicts: io.c0ldra1n.mitsuha, io.c0ldra1n.mitsuha-beta, io.ominousness.mitsuhaxi
-Filename: packages/me.nepeta.mitsuhainfinity_0.1.5_iphoneos-arm.deb
+Filename: debs/me.nepeta.mitsuhainfinity_0.1.5_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.mitsuhainfinity
 Icon: ./icons/me.nepeta.mitsuhainfinity.png
 Size: 45820
@@ -1075,7 +1075,7 @@ Section: Development
 Installed-Size: 316
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: packages/me.nepeta.exo_0.1.1_iphoneos-arm.deb
+Filename: debs/me.nepeta.exo_0.1.1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.exo
 Icon: ./CydiaIcon.png
 Size: 21160
@@ -1094,7 +1094,7 @@ Section: Tweaks (Beta)
 Installed-Size: 288
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.rpetrich.rocketbootstrap (>= 1.0.2), me.nepeta.exo, firmware (>= 11.0)
-Filename: packages/me.nepeta.exobar_0.1.1_iphoneos-arm.deb
+Filename: debs/me.nepeta.exobar_0.1.1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.exobar
 Icon: ./CydiaIcon.png
 Size: 21720
@@ -1113,7 +1113,7 @@ Section: Tweaks (Beta)
 Installed-Size: 288
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.rpetrich.rocketbootstrap (>= 1.0.2), me.nepeta.exo, firmware (>= 11.0)
-Filename: packages/me.nepeta.exobar_0.1.2_iphoneos-arm.deb
+Filename: debs/me.nepeta.exobar_0.1.2_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.exobar
 Icon: ./CydiaIcon.png
 Size: 21714
@@ -1133,7 +1133,7 @@ Installed-Size: 280
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
 Conflicts: me.nepeta.slyd
-Filename: packages/me.nepeta.nottoday12_0.1.3_iphoneos-arm.deb
+Filename: debs/me.nepeta.nottoday12_0.1.3_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.nottoday12
 Icon: ./CydiaIcon.png
 Size: 7210
@@ -1152,7 +1152,7 @@ Section: Tweaks
 Installed-Size: 492
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, firmware (>= 9.0)
-Filename: packages/me.nepeta.flashyhud_0.1.2-1_iphoneos-arm.deb
+Filename: debs/me.nepeta.flashyhud_0.1.2-1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.flashyhud
 Icon: ./icons/me.nepeta.flashyhud.png
 Size: 49190
@@ -1172,7 +1172,7 @@ Installed-Size: 896
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, me.nepeta.libcolorpicker, io.ominousness.ass, ws.hbang.common (>= 1.11), me.nepeta.libmitsuha (>= 0.1.4), me.nepeta.libnepeta, firmware (>=11.0)
 Conflicts: io.c0ldra1n.mitsuha, io.c0ldra1n.mitsuha-beta, io.ominousness.mitsuhaxi
-Filename: packages/me.nepeta.mitsuhainfinity_0.1.5-1_iphoneos-arm.deb
+Filename: debs/me.nepeta.mitsuhainfinity_0.1.5-1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.mitsuhainfinity
 Icon: ./icons/me.nepeta.mitsuhainfinity.png
 Size: 45788
@@ -1192,7 +1192,7 @@ Installed-Size: 1100
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, me.nepeta.libcolorpicker, ws.hbang.common (>= 1.11), me.nepeta.libnepeta (>= 0.1.1), firmware (>= 11.0)
 Conflicts: io.ominousness.modernxi
-Filename: packages/me.nepeta.notifica_0.2.8-1_iphoneos-arm.deb
+Filename: debs/me.nepeta.notifica_0.2.8-1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.notifica
 Icon: ./icons/me.nepeta.notifica.png
 Size: 390540
@@ -1211,7 +1211,7 @@ Section: Development
 Installed-Size: 288
 Architecture: iphoneos-arm
 Depends: io.ominousness.ass, firmware (>= 9.0)
-Filename: packages/me.nepeta.libmitsuha_0.1.6_iphoneos-arm.deb
+Filename: debs/me.nepeta.libmitsuha_0.1.6_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.libmitsuha
 Icon: ./CydiaIcon.png
 Size: 28052
@@ -1230,7 +1230,7 @@ Section: Development
 Installed-Size: 348
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: packages/me.nepeta.exo_0.1.2_iphoneos-arm.deb
+Filename: debs/me.nepeta.exo_0.1.2_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.exo
 Icon: ./CydiaIcon.png
 Size: 22120
@@ -1249,7 +1249,7 @@ Section: Tweaks (Beta)
 Installed-Size: 136
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, me.nepeta.exo, firmware (>= 11.0), com.matchstic.xenhtml
-Filename: packages/me.nepeta.exoxen_0.1.0_iphoneos-arm.deb
+Filename: debs/me.nepeta.exoxen_0.1.0_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.exoxen
 Icon: ./CydiaIcon.png
 Size: 8366
@@ -1268,7 +1268,7 @@ Section: Development
 Installed-Size: 348
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: packages/me.nepeta.exo_0.1.3_iphoneos-arm.deb
+Filename: debs/me.nepeta.exo_0.1.3_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.exo
 Icon: ./CydiaIcon.png
 Size: 25632
@@ -1288,7 +1288,7 @@ Installed-Size: 1048
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 11.0)
 Conflicts: me.nepeta.haisiri
-Filename: packages/me.nepeta.astolfo_0.1.2_iphoneos-arm.deb
+Filename: debs/me.nepeta.astolfo_0.1.2_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.astolfo
 Icon: ./CydiaIcon.png
 Size: 938030
@@ -1307,7 +1307,7 @@ Section: Tweaks (Beta)
 Installed-Size: 392
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.rpetrich.rocketbootstrap (>= 1.0.2), me.nepeta.exo, firmware (>= 11.0)
-Filename: packages/me.nepeta.exobar_0.1.3_iphoneos-arm.deb
+Filename: debs/me.nepeta.exobar_0.1.3_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.exobar
 Icon: ./CydiaIcon.png
 Size: 55560
@@ -1326,7 +1326,7 @@ Section: Tweaks
 Installed-Size: 440
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, net.limneos.libbulletin, preferenceloader, ws.hbang.common
-Filename: packages/com.easy-z.ezbatteries_2.2.0_iphoneos-arm.deb
+Filename: debs/com.easy-z.ezbatteries_2.2.0_iphoneos-arm.deb
 Depiction: ./depiction/com.easy-z.ezbatteries
 Icon: ./icons/com.easy-z.ezbatteries.png
 Size: 192604
@@ -1345,7 +1345,7 @@ Section: Development
 Installed-Size: 352
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: packages/me.nepeta.exo_0.1.4_iphoneos-arm.deb
+Filename: debs/me.nepeta.exo_0.1.4_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.exo
 Icon: ./CydiaIcon.png
 Size: 31382
@@ -1364,7 +1364,7 @@ Section: Tweaks (Beta)
 Installed-Size: 396
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.rpetrich.rocketbootstrap (>= 1.0.2), me.nepeta.exo, firmware (>= 11.0)
-Filename: packages/me.nepeta.exobar_0.1.4_iphoneos-arm.deb
+Filename: debs/me.nepeta.exobar_0.1.4_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.exobar
 Icon: ./CydiaIcon.png
 Size: 59958
@@ -1386,7 +1386,7 @@ Depends: firmware (>= 9.0)
 Conflicts: org.thebigboss.libcolorpicker
 Replaces: org.thebigboss.libcolorpicker
 Provides: org.thebigboss.libcolorpicker (=1.6.1)
-Filename: packages/me.nepeta.libcolorpicker_1.6.2-2_iphoneos-arm.deb
+Filename: debs/me.nepeta.libcolorpicker_1.6.2-2_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.libcolorpicker
 Icon: ./CydiaIcon.png
 Size: 104212
@@ -1405,7 +1405,7 @@ Section: Tweaks
 Installed-Size: 468
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, net.limneos.libbulletin, preferenceloader, ws.hbang.common
-Filename: packages/com.easy-z.ezbatteries_2.2.1_iphoneos-arm.deb
+Filename: debs/com.easy-z.ezbatteries_2.2.1_iphoneos-arm.deb
 Depiction: ./depiction/com.easy-z.ezbatteries
 Icon: ./icons/com.easy-z.ezbatteries.png
 Size: 187022
@@ -1424,7 +1424,7 @@ Section: Tweaks
 Installed-Size: 568
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, firmware (>= 9.0)
-Filename: packages/me.nepeta.flashyhud_0.2.0_iphoneos-arm.deb
+Filename: debs/me.nepeta.flashyhud_0.2.0_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.flashyhud
 Icon: ./icons/me.nepeta.flashyhud.png
 Size: 58546
@@ -1443,7 +1443,7 @@ Section: Tweaks
 Installed-Size: 568
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, firmware (>= 9.0)
-Filename: packages/me.nepeta.flashyhud_0.2.1_iphoneos-arm.deb
+Filename: debs/me.nepeta.flashyhud_0.2.1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.flashyhud
 Icon: ./icons/me.nepeta.flashyhud.png
 Size: 58298
@@ -1462,7 +1462,7 @@ Section: Tweaks
 Installed-Size: 568
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, firmware (>= 9.0)
-Filename: packages/me.nepeta.flashyhud_0.2.1-1_iphoneos-arm.deb
+Filename: debs/me.nepeta.flashyhud_0.2.1-1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.flashyhud
 Icon: ./icons/me.nepeta.flashyhud.png
 Size: 57834
@@ -1481,7 +1481,7 @@ Section: Tweaks
 Installed-Size: 568
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, firmware (>= 9.0)
-Filename: packages/me.nepeta.flashyhud_0.2.1-2_iphoneos-arm.deb
+Filename: debs/me.nepeta.flashyhud_0.2.1-2_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.flashyhud
 Icon: ./icons/me.nepeta.flashyhud.png
 Size: 57664
@@ -1500,7 +1500,7 @@ Section: Tweaks
 Installed-Size: 308
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 11.0)
-Filename: packages/me.nepeta.konban_0.1.2-1_iphoneos-arm.deb
+Filename: debs/me.nepeta.konban_0.1.2-1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.konban
 Icon: ./icons/me.nepeta.konban.png
 Size: 37658
@@ -1519,7 +1519,7 @@ Section: Tweaks
 Installed-Size: 392
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 9.0), applist, com.rpetrich.rocketbootstrap
-Filename: packages/me.nepeta.launchtron_0.1.4_iphoneos-arm.deb
+Filename: debs/me.nepeta.launchtron_0.1.4_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.launchtron
 Icon: ./icons/me.nepeta.launchtron.png
 Size: 51528
@@ -1538,7 +1538,7 @@ Section: Tweaks (Activator)
 Installed-Size: 164
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 9.0), libactivator, me.nepeta.launchtron
-Filename: packages/me.nepeta.launchtron.action_0.1.1_iphoneos-arm.deb
+Filename: debs/me.nepeta.launchtron.action_0.1.1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.launchtron.action
 Icon: ./CydiaIcon.png
 Size: 11480
@@ -1558,7 +1558,7 @@ Installed-Size: 604
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, com.opa334.ccsupport, ws.hbang.common (>= 1.11), firmware (>= 11.0), firmware (<= 12.4.1), applist
 Conflicts: me.nepeta.begonecia-10
-Filename: packages/me.nepeta.begonecia-11_0.2.1-2_iphoneos-arm.deb
+Filename: debs/me.nepeta.begonecia-11_0.2.1-2_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.begonecia-11
 Icon: ./icons/me.nepeta.begonecia-11.png
 Size: 54336
@@ -1577,7 +1577,7 @@ Section: Tweaks
 Installed-Size: 288
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.13), applist
-Filename: packages/me.nepeta.unsub_0.1.0_iphoneos-arm.deb
+Filename: debs/me.nepeta.unsub_0.1.0_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.unsub
 Icon: ./icons/me.nepeta.unsub.png
 Size: 12572
@@ -1596,7 +1596,7 @@ Section: Tweaks
 Installed-Size: 288
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.13), applist
-Filename: packages/me.nepeta.unsub_0.1.1_iphoneos-arm.deb
+Filename: debs/me.nepeta.unsub_0.1.1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.unsub
 Icon: ./icons/me.nepeta.unsub.png
 Size: 13042
@@ -1616,7 +1616,7 @@ Installed-Size: 544
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.13), applist, firmware (>= 9.0)
 Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12, com.inoahdev.launchinsafemode
-Filename: packages/me.nepeta.unsub_0.1.2_iphoneos-arm.deb
+Filename: debs/me.nepeta.unsub_0.1.2_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.unsub
 Icon: ./icons/me.nepeta.unsub.png
 Size: 18000
@@ -1635,7 +1635,7 @@ Section: Tweaks
 Installed-Size: 264
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: packages/me.nepeta.swipeshot_0.1.0_iphoneos-arm.deb
+Filename: debs/me.nepeta.swipeshot_0.1.0_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.swipeshot
 Icon: ./CydiaIcon.png
 Size: 15350
@@ -1654,7 +1654,7 @@ Section: Tweaks
 Installed-Size: 296
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.13), firmware (>= 11.0)
-Filename: packages/me.nepeta.reachit_0.1.2_iphoneos-arm.deb
+Filename: debs/me.nepeta.reachit_0.1.2_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.reachit
 Icon: ./icons/me.nepeta.reachit.png
 Size: 23640
@@ -1674,7 +1674,7 @@ Installed-Size: 552
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 9.0)
 Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12, com.inoahdev.launchinsafemode
-Filename: packages/me.nepeta.unsub_0.1.3_iphoneos-arm.deb
+Filename: debs/me.nepeta.unsub_0.1.3_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.unsub
 Icon: ./icons/me.nepeta.unsub.png
 Size: 21710
@@ -1693,7 +1693,7 @@ Section: Tweaks
 Installed-Size: 376
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
-Filename: packages/me.nepeta.copypasta_0.1.0_iphoneos-arm.deb
+Filename: debs/me.nepeta.copypasta_0.1.0_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.copypasta
 Icon: ./icons/me.nepeta.copypasta.png
 Size: 50196
@@ -1712,7 +1712,7 @@ Section: Tweaks
 Installed-Size: 376
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
-Filename: packages/me.nepeta.copypasta_0.1.1_iphoneos-arm.deb
+Filename: debs/me.nepeta.copypasta_0.1.1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.copypasta
 Icon: ./icons/me.nepeta.copypasta.png
 Size: 50336
@@ -1731,7 +1731,7 @@ Section: Tweaks
 Installed-Size: 380
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
-Filename: packages/me.nepeta.copypasta_0.1.2_iphoneos-arm.deb
+Filename: debs/me.nepeta.copypasta_0.1.2_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.copypasta
 Icon: ./icons/me.nepeta.copypasta.png
 Size: 51064
@@ -1750,7 +1750,7 @@ Section: Tweaks
 Installed-Size: 380
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
-Filename: packages/me.nepeta.copypasta_0.1.3_iphoneos-arm.deb
+Filename: debs/me.nepeta.copypasta_0.1.3_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.copypasta
 Icon: ./icons/me.nepeta.copypasta.png
 Size: 51024
@@ -1769,7 +1769,7 @@ Section: Development
 Installed-Size: 352
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: packages/me.nepeta.exo_0.1.5_iphoneos-arm.deb
+Filename: debs/me.nepeta.exo_0.1.5_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.exo
 Icon: ./CydiaIcon.png
 Size: 31282
@@ -1788,7 +1788,7 @@ Section: Tweaks
 Installed-Size: 440
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
-Filename: packages/me.nepeta.relocate_0.1.0_iphoneos-arm.deb
+Filename: debs/me.nepeta.relocate_0.1.0_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.relocate
 Icon: ./icons/me.nepeta.relocate.png
 Size: 65920
@@ -1807,7 +1807,7 @@ Section: Tweaks
 Installed-Size: 440
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
-Filename: packages/me.nepeta.relocate_0.1.1_iphoneos-arm.deb
+Filename: debs/me.nepeta.relocate_0.1.1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.relocate
 Icon: ./icons/me.nepeta.relocate.png
 Size: 68010
@@ -1826,7 +1826,7 @@ Section: Tweaks
 Installed-Size: 440
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
-Filename: packages/me.nepeta.relocate_0.1.2_iphoneos-arm.deb
+Filename: debs/me.nepeta.relocate_0.1.2_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.relocate
 Icon: ./icons/me.nepeta.relocate.png
 Size: 70538
@@ -1845,7 +1845,7 @@ Section: Tweaks
 Installed-Size: 440
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
-Filename: packages/me.nepeta.relocate_0.1.3_iphoneos-arm.deb
+Filename: debs/me.nepeta.relocate_0.1.3_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.relocate
 Icon: ./icons/me.nepeta.relocate.png
 Size: 70204
@@ -1864,7 +1864,7 @@ Section: Tweaks
 Installed-Size: 476
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
-Filename: packages/me.nepeta.relocate_0.1.4_iphoneos-arm.deb
+Filename: debs/me.nepeta.relocate_0.1.4_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.relocate
 Icon: ./icons/me.nepeta.relocate.png
 Size: 74284
@@ -1884,7 +1884,7 @@ Installed-Size: 552
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 9.0)
 Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12
-Filename: packages/me.nepeta.unsub_0.1.4_iphoneos-arm.deb
+Filename: debs/me.nepeta.unsub_0.1.4_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.unsub
 Icon: ./icons/me.nepeta.unsub.png
 Size: 32758
@@ -1904,7 +1904,7 @@ Installed-Size: 552
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 9.0)
 Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12
-Filename: packages/me.nepeta.unsub_0.1.5_iphoneos-arm.deb
+Filename: debs/me.nepeta.unsub_0.1.5_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.unsub
 Icon: ./icons/me.nepeta.unsub.png
 Size: 33756
@@ -1924,7 +1924,7 @@ Installed-Size: 552
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 9.0)
 Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12
-Filename: packages/me.nepeta.unsub_0.1.6_iphoneos-arm.deb
+Filename: debs/me.nepeta.unsub_0.1.6_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.unsub
 Icon: ./icons/me.nepeta.unsub.png
 Size: 33856
@@ -1943,7 +1943,7 @@ Section: Tweaks
 Installed-Size: 508
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
-Filename: packages/me.nepeta.relocate_0.1.5_iphoneos-arm.deb
+Filename: debs/me.nepeta.relocate_0.1.5_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.relocate
 Icon: ./icons/me.nepeta.relocate.png
 Size: 85002
@@ -1962,7 +1962,7 @@ Section: Utilities
 Installed-Size: 404
 Architecture: iphoneos-arm
 Depends: firmware (>= 9.0), me.nepeta.relocate
-Filename: packages/me.nepeta.relocateapp_0.1.0_iphoneos-arm.deb
+Filename: debs/me.nepeta.relocateapp_0.1.0_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.relocateapp
 Icon: ./icons/me.nepeta.relocateapp.png
 Size: 105064
@@ -1981,7 +1981,7 @@ Section: Tweaks
 Installed-Size: 512
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
-Filename: packages/me.nepeta.relocate_0.1.6_iphoneos-arm.deb
+Filename: debs/me.nepeta.relocate_0.1.6_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.relocate
 Icon: ./icons/me.nepeta.relocate.png
 Size: 85558
@@ -2000,7 +2000,7 @@ Section: Tweaks
 Installed-Size: 160
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, com.opa334.ccsupport, ws.hbang.common (>= 1.11), firmware (>= 11.0), me.nepeta.relocate (>= 0.1.6)
-Filename: packages/me.nepeta.relocatemodule_0.1.0_iphoneos-arm.deb
+Filename: debs/me.nepeta.relocatemodule_0.1.0_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.relocatemodule
 Icon: ./icons/me.nepeta.relocatemodule.png
 Size: 21280
@@ -2019,7 +2019,7 @@ Section: Tweaks
 Installed-Size: 512
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
-Filename: packages/me.nepeta.relocate_0.1.7_iphoneos-arm.deb
+Filename: debs/me.nepeta.relocate_0.1.7_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.relocate
 Icon: ./icons/me.nepeta.relocate.png
 Size: 89156
@@ -2038,7 +2038,7 @@ Section: Tweaks
 Installed-Size: 168
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, com.opa334.ccsupport, ws.hbang.common (>= 1.11), firmware (>= 11.0), me.nepeta.relocate (>= 0.1.7)
-Filename: packages/me.nepeta.relocatemodule_0.1.1_iphoneos-arm.deb
+Filename: debs/me.nepeta.relocatemodule_0.1.1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.relocatemodule
 Icon: ./icons/me.nepeta.relocatemodule.png
 Size: 27046
@@ -2057,7 +2057,7 @@ Section: Tweaks
 Installed-Size: 520
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
-Filename: packages/me.nepeta.relocate_0.1.8_iphoneos-arm.deb
+Filename: debs/me.nepeta.relocate_0.1.8_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.relocate
 Icon: ./icons/me.nepeta.relocate.png
 Size: 91736
@@ -2076,7 +2076,7 @@ Section: Tweaks
 Installed-Size: 520
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
-Filename: packages/me.nepeta.relocate_0.1.9_iphoneos-arm.deb
+Filename: debs/me.nepeta.relocate_0.1.9_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.relocate
 Icon: ./icons/me.nepeta.relocate.png
 Size: 92372
@@ -2095,7 +2095,7 @@ Section: Tweaks
 Installed-Size: 520
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
-Filename: packages/me.nepeta.relocate_0.1.10_iphoneos-arm.deb
+Filename: debs/me.nepeta.relocate_0.1.10_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.relocate
 Icon: ./icons/me.nepeta.relocate.png
 Size: 93536
@@ -2114,7 +2114,7 @@ Section: Tweaks
 Installed-Size: 76
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, me.nepeta.mitsuhainfinity
-Filename: packages/me.nepeta.mitsuhainfinity-homescreen_0.1.0_iphoneos-arm.deb
+Filename: debs/me.nepeta.mitsuhainfinity-homescreen_0.1.0_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.mitsuhainfinity-homescreen
 Icon: ./icons/me.nepeta.mitsuhainfinity-homescreen.png
 Size: 3862
@@ -2133,7 +2133,7 @@ Section: Tweaks
 Installed-Size: 140
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, me.nepeta.mitsuhainfinity
-Filename: packages/me.nepeta.mitsuhainfinity-homescreen_0.1.1_iphoneos-arm.deb
+Filename: debs/me.nepeta.mitsuhainfinity-homescreen_0.1.1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.mitsuhainfinity-homescreen
 Icon: ./icons/me.nepeta.mitsuhainfinity-homescreen.png
 Size: 4804
@@ -2153,7 +2153,7 @@ Installed-Size: 624
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 9.0)
 Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12
-Filename: packages/me.nepeta.unsub_0.1.7_iphoneos-arm.deb
+Filename: debs/me.nepeta.unsub_0.1.7_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.unsub
 Icon: ./icons/me.nepeta.unsub.png
 Size: 40234
@@ -2173,7 +2173,7 @@ Installed-Size: 624
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 9.0)
 Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12
-Filename: packages/me.nepeta.unsub_0.1.8_iphoneos-arm.deb
+Filename: debs/me.nepeta.unsub_0.1.8_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.unsub
 Icon: ./icons/me.nepeta.unsub.png
 Size: 40398
@@ -2192,7 +2192,7 @@ Section: Tweaks
 Installed-Size: 444
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 11.0)
-Filename: packages/me.nepeta.konban_0.2.0_iphoneos-arm.deb
+Filename: debs/me.nepeta.konban_0.2.0_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.konban
 Icon: ./icons/me.nepeta.konban.png
 Size: 41532
@@ -2211,7 +2211,7 @@ Section: Tweaks
 Installed-Size: 444
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 11.0)
-Filename: packages/me.nepeta.konban_0.2.1_iphoneos-arm.deb
+Filename: debs/me.nepeta.konban_0.2.1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.konban
 Icon: ./icons/me.nepeta.konban.png
 Size: 42536
@@ -2231,7 +2231,7 @@ Installed-Size: 624
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 9.0)
 Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12
-Filename: packages/me.nepeta.unsub_0.1.9_iphoneos-arm.deb
+Filename: debs/me.nepeta.unsub_0.1.9_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.unsub
 Icon: ./icons/me.nepeta.unsub.png
 Size: 41206
@@ -2250,7 +2250,7 @@ Section: Development
 Installed-Size: 288
 Architecture: iphoneos-arm
 Depends: io.ominousness.ass, firmware (>= 9.0)
-Filename: packages/me.nepeta.libmitsuha_0.1.7_iphoneos-arm.deb
+Filename: debs/me.nepeta.libmitsuha_0.1.7_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.libmitsuha
 Icon: ./CydiaIcon.png
 Size: 28544
@@ -2269,7 +2269,7 @@ Section: Tweaks
 Installed-Size: 140
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, me.nepeta.mitsuhainfinity
-Filename: packages/me.nepeta.mitsuhainfinity-lockscreen_0.1.0_iphoneos-arm.deb
+Filename: debs/me.nepeta.mitsuhainfinity-lockscreen_0.1.0_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.mitsuhainfinity-lockscreen
 Icon: ./icons/me.nepeta.mitsuhainfinity-lockscreen.png
 Size: 4904
@@ -2288,7 +2288,7 @@ Section: Tweaks
 Installed-Size: 444
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, me.nepeta.libnepeta, firmware (>= 11.0)
-Filename: packages/me.nepeta.nereid_0.1.0_iphoneos-arm.deb
+Filename: debs/me.nepeta.nereid_0.1.0_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.nereid
 Icon: ./icons/me.nepeta.nereid.png
 Size: 75326
@@ -2307,7 +2307,7 @@ Section: Tweaks
 Installed-Size: 444
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, me.nepeta.libnepeta, firmware (>= 11.0)
-Filename: packages/me.nepeta.nereid_0.1.1_iphoneos-arm.deb
+Filename: debs/me.nepeta.nereid_0.1.1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.nereid
 Icon: ./icons/me.nepeta.nereid.png
 Size: 75496
@@ -2326,7 +2326,7 @@ Section: Tweaks
 Installed-Size: 444
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, me.nepeta.libnepeta, firmware (>= 11.0)
-Filename: packages/me.nepeta.nereid_0.1.2_iphoneos-arm.deb
+Filename: debs/me.nepeta.nereid_0.1.2_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.nereid
 Icon: ./icons/me.nepeta.nereid.png
 Size: 76996
@@ -2345,7 +2345,7 @@ Section: Tweaks
 Installed-Size: 444
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, me.nepeta.libnepeta, firmware (>= 11.0)
-Filename: packages/me.nepeta.nereid_0.1.3_iphoneos-arm.deb
+Filename: debs/me.nepeta.nereid_0.1.3_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.nereid
 Icon: ./icons/me.nepeta.nereid.png
 Size: 75832
@@ -2364,7 +2364,7 @@ Section: Tweaks
 Installed-Size: 444
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, me.nepeta.libnepeta, firmware (>= 11.0)
-Filename: packages/me.nepeta.nereid_0.1.4_iphoneos-arm.deb
+Filename: debs/me.nepeta.nereid_0.1.4_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.nereid
 Icon: ./icons/me.nepeta.nereid.png
 Size: 78124
@@ -2383,7 +2383,7 @@ Section: Tweaks
 Installed-Size: 376
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
-Filename: packages/me.nepeta.copypasta_0.1.4_iphoneos-arm.deb
+Filename: debs/me.nepeta.copypasta_0.1.4_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.copypasta
 Icon: ./icons/me.nepeta.copypasta.png
 Size: 49846
@@ -2402,7 +2402,7 @@ Section: Tweaks
 Installed-Size: 456
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, me.nepeta.libnepeta, firmware (>= 11.0)
-Filename: packages/me.nepeta.nereid_0.1.5_iphoneos-arm.deb
+Filename: debs/me.nepeta.nereid_0.1.5_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.nereid
 Icon: ./icons/me.nepeta.nereid.png
 Size: 85200
@@ -2421,7 +2421,7 @@ Section: Tweaks
 Installed-Size: 456
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, me.nepeta.libnepeta, firmware (>= 11.0)
-Filename: packages/me.nepeta.nereid_0.1.6_iphoneos-arm.deb
+Filename: debs/me.nepeta.nereid_0.1.6_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.nereid
 Icon: ./icons/me.nepeta.nereid.png
 Size: 86204
@@ -2441,7 +2441,7 @@ Installed-Size: 1128
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, me.nepeta.libcolorpicker, ws.hbang.common (>= 1.11), me.nepeta.libnepeta (>= 0.1.1), firmware (>= 11.0)
 Conflicts: io.ominousness.modernxi
-Filename: packages/me.nepeta.notifica_0.2.8-2_iphoneos-arm.deb
+Filename: debs/me.nepeta.notifica_0.2.8-2_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.notifica
 Icon: ./icons/me.nepeta.notifica.png
 Size: 391382
@@ -2460,7 +2460,7 @@ Section: Tweaks
 Installed-Size: 488
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, me.nepeta.libnepeta, firmware (>= 11.0)
-Filename: packages/me.nepeta.nereid_0.1.7_iphoneos-arm.deb
+Filename: debs/me.nepeta.nereid_0.1.7_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.nereid
 Icon: ./icons/me.nepeta.nereid.png
 Size: 87370
@@ -2478,7 +2478,7 @@ Description: iOS mediaserverd hook to serve snapshots of current audio buffer vi
 Section: Development
 Installed-Size: 152
 Architecture: iphoneos-arm
-Filename: packages/io.ominousness.ass_1.0.1_iphoneos-arm.deb
+Filename: debs/io.ominousness.ass_1.0.1_iphoneos-arm.deb
 Depiction: ./depiction/io.ominousness.ass
 Icon: ./CydiaIcon.png
 Size: 5760
@@ -2497,7 +2497,7 @@ Section: Development
 Installed-Size: 288
 Architecture: iphoneos-arm
 Depends: io.ominousness.ass (>= 1.0.1), firmware (>= 9.0)
-Filename: packages/me.nepeta.libmitsuha_0.1.8_iphoneos-arm.deb
+Filename: debs/me.nepeta.libmitsuha_0.1.8_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.libmitsuha
 Icon: ./CydiaIcon.png
 Size: 28352
@@ -2516,7 +2516,7 @@ Section: Tweaks
 Installed-Size: 488
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, me.nepeta.libnepeta, firmware (>= 11.0)
-Filename: packages/me.nepeta.nereid_0.1.7-1_iphoneos-arm.deb
+Filename: debs/me.nepeta.nereid_0.1.7-1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.nereid
 Icon: ./icons/me.nepeta.nereid.png
 Size: 87350
@@ -2535,7 +2535,7 @@ Section: Development
 Installed-Size: 292
 Architecture: iphoneos-arm
 Depends: io.ominousness.ass (>= 1.0.1), firmware (>= 9.0)
-Filename: packages/me.nepeta.libmitsuha_0.1.9_iphoneos-arm.deb
+Filename: debs/me.nepeta.libmitsuha_0.1.9_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.libmitsuha
 Icon: ./CydiaIcon.png
 Size: 30076
@@ -2555,7 +2555,7 @@ Installed-Size: 896
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, me.nepeta.libcolorpicker, io.ominousness.ass, ws.hbang.common (>= 1.11), me.nepeta.libmitsuha (>= 0.1.9), me.nepeta.libnepeta, firmware (>=11.0)
 Conflicts: io.c0ldra1n.mitsuha, io.c0ldra1n.mitsuha-beta, io.ominousness.mitsuhaxi
-Filename: packages/me.nepeta.mitsuhainfinity_0.1.6_iphoneos-arm.deb
+Filename: debs/me.nepeta.mitsuhainfinity_0.1.6_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.mitsuhainfinity
 Icon: ./icons/me.nepeta.mitsuhainfinity.png
 Size: 45624
@@ -2574,7 +2574,7 @@ Section: Tweaks
 Installed-Size: 332
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
-Filename: packages/me.nepeta.nanobanners_0.1.0_iphoneos-arm.deb
+Filename: debs/me.nepeta.nanobanners_0.1.0_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.nanobanners
 Icon: ./icons/me.nepeta.nanobanners.png
 Size: 29488
@@ -2593,7 +2593,7 @@ Section: Tweaks
 Installed-Size: 332
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
-Filename: packages/me.nepeta.nanobanners_0.1.1_iphoneos-arm.deb
+Filename: debs/me.nepeta.nanobanners_0.1.1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.nanobanners
 Icon: ./icons/me.nepeta.nanobanners.png
 Size: 30182
@@ -2612,7 +2612,7 @@ Section: Tweaks
 Installed-Size: 332
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
-Filename: packages/me.nepeta.nanobanners_0.1.2_iphoneos-arm.deb
+Filename: debs/me.nepeta.nanobanners_0.1.2_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.nanobanners
 Icon: ./icons/me.nepeta.nanobanners.png
 Size: 31020
@@ -2631,7 +2631,7 @@ Section: Tweaks
 Installed-Size: 572
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, firmware (>= 9.0)
-Filename: packages/me.nepeta.flashyhud_0.2.2_iphoneos-arm.deb
+Filename: debs/me.nepeta.flashyhud_0.2.2_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.flashyhud
 Icon: ./icons/me.nepeta.flashyhud.png
 Size: 62292
@@ -2651,7 +2651,7 @@ Installed-Size: 468
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
 Conflicts: com.spark.hyperion, io.ominousness.stackxi
-Filename: packages/me.nepeta.axon_0.1.0_iphoneos-arm.deb
+Filename: debs/me.nepeta.axon_0.1.0_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.axon
 Icon: ./icons/me.nepeta.axon.png
 Size: 111768
@@ -2671,7 +2671,7 @@ Installed-Size: 468
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
 Conflicts: com.spark.hyperion, io.ominousness.stackxi
-Filename: packages/me.nepeta.axon_0.1.1_iphoneos-arm.deb
+Filename: debs/me.nepeta.axon_0.1.1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.axon
 Icon: ./icons/me.nepeta.axon.png
 Size: 111202
@@ -2691,7 +2691,7 @@ Installed-Size: 468
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
 Conflicts: com.spark.hyperion, io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ladshyam.dots, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10
-Filename: packages/me.nepeta.axon_0.1.2_iphoneos-arm.deb
+Filename: debs/me.nepeta.axon_0.1.2_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.axon
 Icon: ./icons/me.nepeta.axon.png
 Size: 112208
@@ -2711,7 +2711,7 @@ Installed-Size: 468
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
 Conflicts: com.spark.hyperion, io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ladshyam.dots, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana
-Filename: packages/me.nepeta.axon_0.1.3_iphoneos-arm.deb
+Filename: debs/me.nepeta.axon_0.1.3_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.axon
 Icon: ./icons/me.nepeta.axon.png
 Size: 112892
@@ -2731,7 +2731,7 @@ Installed-Size: 468
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
 Conflicts: com.spark.hyperion, io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ladshyam.dots, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana
-Filename: packages/me.nepeta.axon_0.1.4_iphoneos-arm.deb
+Filename: debs/me.nepeta.axon_0.1.4_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.axon
 Icon: ./icons/me.nepeta.axon.png
 Size: 113154
@@ -2751,7 +2751,7 @@ Installed-Size: 468
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
 Conflicts: com.spark.hyperion, io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ladshyam.dots, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana
-Filename: packages/me.nepeta.axon_0.1.5_iphoneos-arm.deb
+Filename: debs/me.nepeta.axon_0.1.5_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.axon
 Icon: ./icons/me.nepeta.axon.png
 Size: 114712
@@ -2771,7 +2771,7 @@ Installed-Size: 468
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ladshyam.dots, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana
-Filename: packages/me.nepeta.axon_0.1.5-1_iphoneos-arm.deb
+Filename: debs/me.nepeta.axon_0.1.5-1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.axon
 Icon: ./icons/me.nepeta.axon.png
 Size: 114796
@@ -2791,7 +2791,7 @@ Installed-Size: 468
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ladshyam.dots, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
-Filename: packages/me.nepeta.axon_0.1.5-2_iphoneos-arm.deb
+Filename: debs/me.nepeta.axon_0.1.5-2_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.axon
 Icon: ./icons/me.nepeta.axon.png
 Size: 114944
@@ -2811,7 +2811,7 @@ Installed-Size: 468
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ladshyam.dots, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
-Filename: packages/me.nepeta.axon_0.1.5-3_iphoneos-arm.deb
+Filename: debs/me.nepeta.axon_0.1.5-3_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.axon
 Icon: ./icons/me.nepeta.axon.png
 Size: 114920
@@ -2831,7 +2831,7 @@ Installed-Size: 468
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ladshyam.dots, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
-Filename: packages/me.nepeta.axon_0.1.5-4_iphoneos-arm.deb
+Filename: debs/me.nepeta.axon_0.1.5-4_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.axon
 Icon: ./icons/me.nepeta.axon.png
 Size: 114848
@@ -2851,7 +2851,7 @@ Installed-Size: 500
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ladshyam.dots, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
-Filename: packages/me.nepeta.axon_0.1.6_iphoneos-arm.deb
+Filename: debs/me.nepeta.axon_0.1.6_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.axon
 Icon: ./icons/me.nepeta.axon.png
 Size: 118444
@@ -2871,7 +2871,7 @@ Installed-Size: 500
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
-Filename: packages/me.nepeta.axon_0.1.6-1_iphoneos-arm.deb
+Filename: debs/me.nepeta.axon_0.1.6-1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.axon
 Icon: ./icons/me.nepeta.axon.png
 Size: 118258
@@ -2891,7 +2891,7 @@ Installed-Size: 1128
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, me.nepeta.libcolorpicker, ws.hbang.common (>= 1.11), me.nepeta.libnepeta (>= 0.1.1), firmware (>= 11.0)
 Conflicts: io.ominousness.modernxi
-Filename: packages/me.nepeta.notifica_0.3.0_iphoneos-arm.deb
+Filename: debs/me.nepeta.notifica_0.3.0_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.notifica
 Icon: ./icons/me.nepeta.notifica.png
 Size: 394462
@@ -2911,7 +2911,7 @@ Installed-Size: 1128
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, me.nepeta.libcolorpicker, ws.hbang.common (>= 1.11), me.nepeta.libnepeta (>= 0.1.1), firmware (>= 11.0)
 Conflicts: io.ominousness.modernxi
-Filename: packages/me.nepeta.notifica_0.3.0-1_iphoneos-arm.deb
+Filename: debs/me.nepeta.notifica_0.3.0-1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.notifica
 Icon: ./icons/me.nepeta.notifica.png
 Size: 394524
@@ -2931,7 +2931,7 @@ Installed-Size: 1128
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, me.nepeta.libcolorpicker, ws.hbang.common (>= 1.11), me.nepeta.libnepeta (>= 0.1.1), firmware (>= 11.0)
 Conflicts: io.ominousness.modernxi
-Filename: packages/me.nepeta.notifica_0.3.0-2_iphoneos-arm.deb
+Filename: debs/me.nepeta.notifica_0.3.0-2_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.notifica
 Icon: ./icons/me.nepeta.notifica.png
 Size: 394660
@@ -2951,7 +2951,7 @@ Installed-Size: 1128
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, me.nepeta.libcolorpicker, ws.hbang.common (>= 1.11), me.nepeta.libnepeta (>= 0.1.1), firmware (>= 11.0)
 Conflicts: io.ominousness.modernxi
-Filename: packages/me.nepeta.notifica_0.3.0-3_iphoneos-arm.deb
+Filename: debs/me.nepeta.notifica_0.3.0-3_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.notifica
 Icon: ./icons/me.nepeta.notifica.png
 Size: 395656
@@ -2971,7 +2971,7 @@ Installed-Size: 504
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
-Filename: packages/me.nepeta.axon_0.1.7_iphoneos-arm.deb
+Filename: debs/me.nepeta.axon_0.1.7_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.axon
 Icon: ./icons/me.nepeta.axon.png
 Size: 119910
@@ -2991,7 +2991,7 @@ Installed-Size: 504
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
-Filename: packages/me.nepeta.axon_0.1.7-1_iphoneos-arm.deb
+Filename: debs/me.nepeta.axon_0.1.7-1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.axon
 Icon: ./icons/me.nepeta.axon.png
 Size: 120018
@@ -3011,7 +3011,7 @@ Installed-Size: 504
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
-Filename: packages/me.nepeta.axon_0.1.7-2_iphoneos-arm.deb
+Filename: debs/me.nepeta.axon_0.1.7-2_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.axon
 Icon: ./icons/me.nepeta.axon.png
 Size: 120710
@@ -3031,7 +3031,7 @@ Installed-Size: 1128
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, me.nepeta.libcolorpicker, ws.hbang.common (>= 1.11), me.nepeta.libnepeta (>= 0.1.1), firmware (>= 11.0)
 Conflicts: io.ominousness.modernxi
-Filename: packages/me.nepeta.notifica_0.3.0-4_iphoneos-arm.deb
+Filename: debs/me.nepeta.notifica_0.3.0-4_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.notifica
 Icon: ./icons/me.nepeta.notifica.png
 Size: 395994
@@ -3051,7 +3051,7 @@ Installed-Size: 500
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
-Filename: packages/me.nepeta.axon_0.1.8_iphoneos-arm.deb
+Filename: debs/me.nepeta.axon_0.1.8_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.axon
 Icon: ./icons/me.nepeta.axon.png
 Size: 123144
@@ -3071,7 +3071,7 @@ Installed-Size: 500
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
-Filename: packages/me.nepeta.axon_0.1.8-1_iphoneos-arm.deb
+Filename: debs/me.nepeta.axon_0.1.8-1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.axon
 Icon: ./icons/me.nepeta.axon.png
 Size: 123110
@@ -3090,7 +3090,7 @@ Section: Tweaks
 Installed-Size: 428
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), cy+cpu.arm64
-Filename: packages/com.peterdev.notchcontrol_1.0_iphoneos-arm.deb
+Filename: debs/com.peterdev.notchcontrol_1.0_iphoneos-arm.deb
 Depiction: ./depiction/com.peterdev.notchcontrol
 Icon: ./icons/com.peterdev.notchcontrol.png
 Size: 57408
@@ -3109,7 +3109,7 @@ Section: Tweaks
 Installed-Size: 364
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: packages/com.chilaxan.cuboid_2.0.0_iphoneos-arm.deb
+Filename: debs/com.chilaxan.cuboid_2.0.0_iphoneos-arm.deb
 Depiction: ./depiction/com.chilaxan.cuboid
 Icon: ./icons/com.chilaxan.cuboid.png
 Size: 64922
@@ -3128,7 +3128,7 @@ Section: Tweaks
 Installed-Size: 364
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: packages/com.chilaxan.cuboid_2.0.0-1_iphoneos-arm.deb
+Filename: debs/com.chilaxan.cuboid_2.0.0-1_iphoneos-arm.deb
 Depiction: ./depiction/com.chilaxan.cuboid
 Icon: ./icons/com.chilaxan.cuboid.png
 Size: 65352
@@ -3147,7 +3147,7 @@ Section: Tweaks
 Installed-Size: 380
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: packages/com.chilaxan.cuboid_2.0.1_iphoneos-arm.deb
+Filename: debs/com.chilaxan.cuboid_2.0.1_iphoneos-arm.deb
 Depiction: ./depiction/com.chilaxan.cuboid
 Icon: ./icons/com.chilaxan.cuboid.png
 Size: 67242
@@ -3167,7 +3167,7 @@ Installed-Size: 500
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
-Filename: packages/me.nepeta.axon_0.1.8-2_iphoneos-arm.deb
+Filename: debs/me.nepeta.axon_0.1.8-2_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.axon
 Icon: ./icons/me.nepeta.axon.png
 Size: 123328
@@ -3187,7 +3187,7 @@ Installed-Size: 508
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
-Filename: packages/me.nepeta.axon_0.1.9_iphoneos-arm.deb
+Filename: debs/me.nepeta.axon_0.1.9_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.axon
 Icon: ./icons/me.nepeta.axon.png
 Size: 125674
@@ -3206,7 +3206,7 @@ Section: Tweaks
 Installed-Size: 476
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), cy+cpu.arm64
-Filename: packages/com.peterdev.notchcontrol_1.0.1_iphoneos-arm.deb
+Filename: debs/com.peterdev.notchcontrol_1.0.1_iphoneos-arm.deb
 Depiction: ./depiction/com.peterdev.notchcontrol
 Icon: ./icons/com.peterdev.notchcontrol.png
 Size: 68280
@@ -3225,7 +3225,7 @@ Section: Tweaks
 Installed-Size: 112
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (<= 12.1.4)
-Filename: packages/com.peterdev.whatabouthis_1.2_iphoneos-arm.deb
+Filename: debs/com.peterdev.whatabouthis_1.2_iphoneos-arm.deb
 Depiction: ./depiction/com.peterdev.whatabouthis
 Icon: ./CydiaIcon.png
 Size: 5234
@@ -3244,7 +3244,7 @@ Section: Tweaks
 Installed-Size: 160
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (<= 12.1.4)
-Filename: packages/com.peterdev.whatabouthis_1.2.1_iphoneos-arm.deb
+Filename: debs/com.peterdev.whatabouthis_1.2.1_iphoneos-arm.deb
 Depiction: ./depiction/com.peterdev.whatabouthis
 Icon: ./CydiaIcon.png
 Size: 6434
@@ -3263,7 +3263,7 @@ Section: Tweaks
 Installed-Size: 1212
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker, com.creaturecoding.libcspreferences, firmware (>= 11.0)
-Filename: packages/me.aesthyrica.twttr_1.0.0_iphoneos-arm.deb
+Filename: debs/me.aesthyrica.twttr_1.0.0_iphoneos-arm.deb
 Depiction: ./depiction/me.aesthyrica.twttr
 Icon: ./icons/me.aesthyrica.twttr.png
 Size: 176100
@@ -3282,7 +3282,7 @@ Section: Tweaks
 Installed-Size: 1388
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker, com.creaturecoding.libcspreferences, firmware (>= 11.0)
-Filename: packages/me.aesthyrica.twttr_1.0.1_iphoneos-arm.deb
+Filename: debs/me.aesthyrica.twttr_1.0.1_iphoneos-arm.deb
 Depiction: ./depiction/me.aesthyrica.twttr
 Icon: ./icons/me.aesthyrica.twttr.png
 Size: 195674
@@ -3301,7 +3301,7 @@ Section: Tweaks
 Installed-Size: 1420
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker, com.creaturecoding.libcspreferences, firmware (>= 11.0)
-Filename: packages/me.aesthyrica.twttr_1.0.2_iphoneos-arm.deb
+Filename: debs/me.aesthyrica.twttr_1.0.2_iphoneos-arm.deb
 Depiction: ./depiction/me.aesthyrica.twttr
 Icon: ./icons/me.aesthyrica.twttr.png
 Size: 202732
@@ -3320,7 +3320,7 @@ Section: Tweaks
 Installed-Size: 1468
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, com.creaturecoding.libcspreferences, firmware (>= 11.0)
-Filename: packages/me.aesthyrica.twttr_1.0.3_iphoneos-arm.deb
+Filename: debs/me.aesthyrica.twttr_1.0.3_iphoneos-arm.deb
 Depiction: ./depiction/me.aesthyrica.twttr
 Icon: ./icons/me.aesthyrica.twttr.png
 Size: 211024
@@ -3339,7 +3339,7 @@ Section: Tweaks
 Installed-Size: 488
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, me.nepeta.libnepeta, firmware (>= 11.0)
-Filename: packages/me.nepeta.nereid_0.1.8_iphoneos-arm.deb
+Filename: debs/me.nepeta.nereid_0.1.8_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.nereid
 Icon: ./icons/me.nepeta.nereid.png
 Size: 89084
@@ -3359,7 +3359,7 @@ Installed-Size: 896
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, me.nepeta.libcolorpicker | org.thebigboss.libcolorpicker (>= 1.6.3), io.ominousness.ass, ws.hbang.common (>= 1.11), me.nepeta.libmitsuha (>= 0.1.9), me.nepeta.libnepeta, firmware (>=11.0)
 Conflicts: io.c0ldra1n.mitsuha, io.c0ldra1n.mitsuha-beta, io.ominousness.mitsuhaxi
-Filename: packages/me.nepeta.mitsuhainfinity_0.1.7_iphoneos-arm.deb
+Filename: debs/me.nepeta.mitsuhainfinity_0.1.7_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.mitsuhainfinity
 Icon: ./icons/me.nepeta.mitsuhainfinity.png
 Size: 45882
@@ -3378,7 +3378,7 @@ Section: Tweaks
 Installed-Size: 488
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker | org.thebigboss.libcolorpicker (>= 1.6.3), me.nepeta.libnepeta, firmware (>= 11.0)
-Filename: packages/me.nepeta.nereid_0.1.8-1_iphoneos-arm.deb
+Filename: debs/me.nepeta.nereid_0.1.8-1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.nereid
 Icon: ./icons/me.nepeta.nereid.png
 Size: 89126
@@ -3398,7 +3398,7 @@ Installed-Size: 1128
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, me.nepeta.libcolorpicker | org.thebigboss.libcolorpicker (>= 1.6.3), ws.hbang.common (>= 1.11), me.nepeta.libnepeta (>= 0.1.1), firmware (>= 11.0)
 Conflicts: io.ominousness.modernxi
-Filename: packages/me.nepeta.notifica_0.3.1_iphoneos-arm.deb
+Filename: debs/me.nepeta.notifica_0.3.1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.notifica
 Icon: ./icons/me.nepeta.notifica.png
 Size: 396656
@@ -3418,7 +3418,7 @@ Installed-Size: 896
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, me.nepeta.libcolorpicker | org.thebigboss.libcolorpicker (>= 1.6.3), io.ominousness.ass, ws.hbang.common (>= 1.11), me.nepeta.libmitsuha (>= 0.1.9), me.nepeta.libnepeta, firmware (>=11.0)
 Conflicts: io.c0ldra1n.mitsuha, io.c0ldra1n.mitsuha-beta, io.ominousness.mitsuhaxi
-Filename: packages/me.nepeta.mitsuhainfinity_0.1.7-1_iphoneos-arm.deb
+Filename: debs/me.nepeta.mitsuhainfinity_0.1.7-1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.mitsuhainfinity
 Icon: ./icons/me.nepeta.mitsuhainfinity.png
 Size: 46034
@@ -3438,7 +3438,7 @@ Installed-Size: 896
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, me.nepeta.libcolorpicker | org.thebigboss.libcolorpicker (>= 1.6.3), io.ominousness.ass, ws.hbang.common (>= 1.11), me.nepeta.libmitsuha (>= 0.1.9), me.nepeta.libnepeta, firmware (>=11.0)
 Conflicts: io.c0ldra1n.mitsuha, io.c0ldra1n.mitsuha-beta, io.ominousness.mitsuhaxi
-Filename: packages/me.nepeta.mitsuhainfinity_0.1.7-2_iphoneos-arm.deb
+Filename: debs/me.nepeta.mitsuhainfinity_0.1.7-2_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.mitsuhainfinity
 Icon: ./icons/me.nepeta.mitsuhainfinity.png
 Size: 46056
@@ -3457,7 +3457,7 @@ Section: Tweaks
 Installed-Size: 136
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: packages/me.nepeta.2x2_0.1.0_iphoneos-arm.deb
+Filename: debs/me.nepeta.2x2_0.1.0_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.2x2
 Icon: ./CydiaIcon.png
 Size: 3394
@@ -3476,7 +3476,7 @@ Section: Tweaks
 Installed-Size: 136
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: packages/me.nepeta.2x2_0.1.1_iphoneos-arm.deb
+Filename: debs/me.nepeta.2x2_0.1.1_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.2x2
 Icon: ./CydiaIcon.png
 Size: 3390
@@ -3495,7 +3495,7 @@ Section: Tweaks
 Installed-Size: 136
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: packages/me.nepeta.2dock_0.1.0_iphoneos-arm.deb
+Filename: debs/me.nepeta.2dock_0.1.0_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.2dock
 Icon: ./CydiaIcon.png
 Size: 3144
@@ -3514,7 +3514,7 @@ Section: Tweaks
 Installed-Size: 200
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: packages/me.nepeta.iconstate_0.1.0_iphoneos-arm.deb
+Filename: debs/me.nepeta.iconstate_0.1.0_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.iconstate
 Icon: ./CydiaIcon.png
 Size: 4618
@@ -3534,7 +3534,7 @@ Installed-Size: 344
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), me.nepeta.iconstate
 Conflicts: me.nepeta.2dock, com.synnyg.floatydock, com.imkpatil.floatingdockplus, com.imkpatil.floatingdock, com.dgh0st.floatingdock, com.cabralcole.dockalpha, me.gmoran.fiveicondockxi, info.rpdev.betterfiveicondock, com.noisyflake.cleardock12, com.yourepo.cydiageek.shydock, com.noisyflake.moderndock, com.julioverne.cirdock11, com.daniel63194.colormydock
-Filename: packages/me.nepeta.docky_0.1.0_iphoneos-arm.deb
+Filename: debs/me.nepeta.docky_0.1.0_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.docky
 Icon: ./icons/me.nepeta.docky.png
 Size: 37624
@@ -3553,7 +3553,7 @@ Section: Tweaks
 Installed-Size: 136
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: packages/me.nepeta.smoothie_0.1.0_iphoneos-arm.deb
+Filename: debs/me.nepeta.smoothie_0.1.0_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.smoothie
 Icon: ./CydiaIcon.png
 Size: 2506
@@ -3572,7 +3572,7 @@ Section: Tweaks
 Installed-Size: 552
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7)
-Filename: packages/me.nepeta.relocate_0.1.11_iphoneos-arm.deb
+Filename: debs/me.nepeta.relocate_0.1.11_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.relocate
 Icon: ./icons/me.nepeta.relocate.png
 Size: 94710
