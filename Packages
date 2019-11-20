@@ -3567,7 +3567,7 @@ Name: Relocate
 Version: 0.1.11
 Maintainer: Nepeta <ominousness@protonmail.com>
 Author: Nepeta <ominousness@protonmail.com>
-Description: Minimalist GPS spoofer (free) (If you can't see the depiction, please use Cydia or Zebra).
+Description: Minimalist GPS spoofer (free) (If you can't see the depiction, please use Cydia or Zebra). To make it work on iOS 13, add to your source this repo: https:// revulate.dev and then install the following packages libpackageinfo (SparkDev) and TechSupportFramework (SparkDev) (note the SparkDev part, it is necessary).
 Section: Tweaks
 Installed-Size: 552
 Architecture: iphoneos-arm
