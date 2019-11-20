@@ -2095,6 +2095,9 @@ Section: Tweaks
 Installed-Size: 520
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist, com.spark.libpackageinfo, com.spark.techsupport
+Conflicts: jp.ashikase.libpackageinfo, cokepokes.jp.ashikase.libpackageinfo
+Replaces: jp.ashikase.libpackageinfo, cokepokes.jp.ashikase.libpackageinfo
+Provides: jp.ashikase.libpackageinfo, cokepokes.jp.ashikase.libpackageinfo
 Filename: debs/me.nepeta.relocate_0.1.10_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.relocate
 Icon: ./icons/me.nepeta.relocate.png
@@ -3533,6 +3536,9 @@ Section: Tweaks
 Installed-Size: 552
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7), com.spark.libpackageinfo, com.spark.techsupport
+Conflicts: jp.ashikase.libpackageinfo, cokepokes.jp.ashikase.libpackageinfo
+Replaces: jp.ashikase.libpackageinfo, cokepokes.jp.ashikase.libpackageinfo
+Provides: jp.ashikase.libpackageinfo, cokepokes.jp.ashikase.libpackageinfo
 Filename: debs/me.nepeta.relocate_0.1.11_iphoneos-arm.deb
 Depiction: ./depiction/me.nepeta.relocate
 Icon: ./icons/me.nepeta.relocate.png
