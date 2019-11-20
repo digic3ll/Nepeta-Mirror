@@ -3535,7 +3535,7 @@ Description: Minimalist GPS spoofer (free). Compatible with iOS 11.0 - 13.3
 Section: Tweaks
 Installed-Size: 552
 Architecture: iphoneos-arm
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7), com.spark.libpackageinfo, com.spark.techsupport
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7), com.spark.libpackageinfo (>= 1.1.4), com.spark.techsupport (>=1.5.2)
 Conflicts: jp.ashikase.libpackageinfo, cokepokes.jp.ashikase.libpackageinfo, jp.ashikase.techsupport, cokepokes.jp.ashikase.techsupport
 Replaces: jp.ashikase.libpackageinfo, cokepokes.jp.ashikase.libpackageinfo, jp.ashikase.techsupport, cokepokes.jp.ashikase.techsupport
 Provides: jp.ashikase.libpackageinfo, cokepokes.jp.ashikase.libpackageinfo, jp.ashikase.techsupport, cokepokes.jp.ashikase.techsupport
