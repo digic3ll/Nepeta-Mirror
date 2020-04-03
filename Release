@@ -4,7 +4,7 @@ Version: 1.0
 Architectures: iphoneos-arm
 Components: main
 Codename: ominousness
-Description: Nepeta's repo for mostly FOSS software. Mirror maintained by Nick Garbis. Being frequently updated with changes needed for iOS 13 and future versions. Contact me on Twitter: @nickkgar Reddit: /u/nickkgar email: gnick@free.fr
+Description: Nepeta's repo for mostly FOSS software. Mirror maintained by Nick Garbis. Being frequently updated with changes needed for iOS 13 and future versions.
 MD5Sum:
  ad1cd0b26db93406a74fe17ceab4ebf5 165516 Packages
  18ea1228e921e2930799a391441b4c00 33866 Packages.bz2
